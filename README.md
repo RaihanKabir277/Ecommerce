@@ -1,4 +1,3 @@
-
 # 🛒 Ecommerce Lakehouse Data Engineering Project
 
 A complete end-to-end **Databricks Lakehouse Medallion Architecture Project** built for processing, transforming, and analyzing Ecommerce transactional data using **PySpark**, **Delta Lake**, and **Databricks SQL**.
