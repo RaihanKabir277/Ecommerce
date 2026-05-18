@@ -342,84 +342,11 @@ This project can support:
 
 ---
 
-# 📷 Add Project Screenshots
-
-You can add your Databricks screenshots or dashboard images here.
-[Dashboard](im)
-## Example
-
-```markdown
-## Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
-```
-
----
-
-# 📌 Recommended Screenshots to Add
-
-## 1️⃣ Databricks Workflow Screenshot
-Show:
-- Bronze
-- Silver
-- Gold tables
-- Pipeline execution
-
-Suggested filename:
-```text
-images/workflow.png
-```
-
----
-
-## 2️⃣ Dashboard / Query Result Screenshot
-Show:
-- Sales analytics
-- Product analysis
-- SQL output
-- BI visualization
-
-Suggested filename:
-```text
-images/dashboard.png
-```
-
----
-
-# 🛠️ How to Add Images to GitHub README
-
-## Step 1
-Create a folder inside your repository:
-
-```text
-images/
-```
-
----
-
-## Step 2
-Add your screenshots inside the folder.
-
-Example:
-```text
-images/workflow.png
-images/dashboard.png
-```
-
----
-
-## Step 3
-Add image markdown inside README.md
-
-```markdown
-## Workflow
-
-![Workflow](images/workflow.png)
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
+![Dashboard](dashboard2.png)
 ```
 
 ---
